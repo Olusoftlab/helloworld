@@ -2,11 +2,11 @@ package helloworld;
 
 @SuppressWarnings("java:S106")
 
-
-
 public class App {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         System.out.println("Hello, World!");
         System.out.println("you are welcome");
+        System.out.println("start coding in java");
+
     }
 }

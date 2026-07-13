@@ -7,5 +7,9 @@ public class App {
         System.out.println("Hello, World!");
         System.out.println("you are welcome");
 
+        int a = 89;
+
+        System.out.println(a);
+
     }
 }
